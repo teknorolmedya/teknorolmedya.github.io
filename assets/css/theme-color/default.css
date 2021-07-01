@@ -1,0 +1,33 @@
+/*
+============== background Color====================
+*/
+#domain-search #search-btn, .faucher_box:after, .faucher_box:before, .plan_left ul li a, .us .item:before, .us .item:after,
+.us .item h6:after, .custumer_sey .custumer_text, #footer .form-inline .form-group .btn-style, .btn-text,
+.custumer_sey .custumer_text:before, .contact-info ul.info li .icon, .suppot_fige .media_suppot i,
+.ui-input-group .input-bar:before, .ui-input-group .input-bar:after, .page-signin .body-inner:before {
+  background: #7f0699;
+}
+
+.pricing .block .table-success, .pricing .btn.btn-success {
+  background: #7f0699;
+  background: -moz-linear-gradient(left, #7f0699 0%, #4269f7 100%);
+  background: -webkit-linear-gradient(left, #7f0699 0%, #4269f7 100%);
+  background: linear-gradient(to right, #7f0699 0%, #4269f7 100%);
+}
+
+/*
+============== Text Color====================
+*/
+.us .item span, .menu-bg .navigation > ul > li:hover > a, #servi-carousel .item_ser .full-item-pic i,
+.inner_page .menu-bg .navigation > ul > li:hover > a,
+.ui-input-group > input:focus ~ label, .ui-input-group > textarea:focus ~ label, .color-primary, a.color-primary {
+  color: #7f0699;
+}
+
+/*
+============== Border Color====================
+*/
+#domain-search #domain-text, #domain-search #search-btn, #footer .form-inline .form-group .btn-style, .btn-text,
+.btn-text:hover {
+  border-color: #7f0699;
+}
